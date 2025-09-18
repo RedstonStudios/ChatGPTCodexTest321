@@ -11,7 +11,7 @@ python cool_fireworks.py
 Mit ein paar Parametern lässt sich die Show individualisieren:
 
 - `--frames`: Anzahl der Bilder (Standard: 200)
-- `--interval`: Verzögerung zwischen den Bildern in Sekunden (Standard: 0.06)
+- `--interval`: Verzögerung zwischen den Bildern in Sekunden (Standard: 0.06)s dasdsa dsad 
 - `--size`: Terminalgröße als `BREITExHÖHE` oder `auto`
 - `--seed`: Zufalls-Seed für reproduzierbare Feuerwerke
 
